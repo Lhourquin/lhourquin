@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lhourquin" target="blank"><img src="https://img.shields.io/twitter/follow/lhourquin?logo=twitter&style=for-the-badge" alt="lhourquin" /></a> </p>
 
-- 🔭 I’m currently working on My Portfolio ( private repository )
+- 🔭 I’m currently working on My Portfolio
 
 - 🌱 I’m currently learning **React**
 
