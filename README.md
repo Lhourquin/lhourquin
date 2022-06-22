@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/lhourquin" target="blank"><img src="https://img.shields.io/twitter/follow/lhourquin?logo=twitter&style=for-the-badge" alt="lhourquin" /></a> </p>
 
-- 🔭 I’m currently working on My Portfolio
+- 🔭 I’m currently working on API Rest to handle some pokemons.
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node JS**
 
 - 📫 How to reach me **lhourquinpro@gmail.com**
 
