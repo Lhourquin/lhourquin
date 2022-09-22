@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/lhourquin" target="blank"><img src="https://img.shields.io/twitter/follow/lhourquin?logo=twitter&style=for-the-badge" alt="lhourquin" /></a> </p>
 
-- 🔭 I’m currently working on API Rest to handle some pokemons.
+- 🔭 I’m currently working on litle project to learn Angular, after that i return to the project API Rest to handle some pokemons with Node JS.
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Angular/ Node JS/ SQL/ Docker/ MERISE/ UML**
 
 - 📫 How to reach me **lhourquinpro@gmail.com**
 
