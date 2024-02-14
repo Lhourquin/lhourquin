@@ -28,10 +28,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-plain-wordmark.svg"/>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-plain-wordmark.svg" alt="angular" width="40" height="40" />
 </a>
   <a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original-wordmark.svg"/></p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original-wordmark.svg" alt="ionic" width="40" height="40" /></p>
     
   </a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lhourquin&show_icons=true&locale=en&layout=compact" alt="lhourquin" /></p>
