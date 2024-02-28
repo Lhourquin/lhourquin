@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lhourquin" target="blank"><img src="https://img.shields.io/twitter/follow/lhourquin?logo=twitter&style=for-the-badge" alt="lhourquin" /></a> </p>
 
-- 🔭 I’m currently working on training book project with Ionic/Angular and ExpressJS/MYSQL.
+- 🔭 Currently at the end of my work-study program, I am devoting myself to carrying out a side projet of digital training notebook project with Ionic/Angular and ExpressJS/MYSQL.
 
 - 🌱 I’m currently learning **Angular/ Node JS/ SQL/ Docker/ MERISE/ UML**
 
