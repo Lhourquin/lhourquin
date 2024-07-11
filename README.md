@@ -5,21 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lhourquin" alt="lhourquin" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/lhourquin" target="blank"><img src="https://img.shields.io/twitter/follow/lhourquin?logo=twitter&style=for-the-badge" alt="lhourquin" /></a> </p>
-
-- 🔭 Currently at the end of my work-study program, I am devoting myself to carrying out a side projet of digital training notebook project with Ionic/Angular and ExpressJS/MYSQL.
-
-- 🌱 I’m currently learning **Angular/ Node JS/ SQL/ Docker/ MERISE/ UML**
-
-- 📫 How to reach me **lhourquinpro@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/lhourquin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lhourquin" height="30" width="40" /></a>
-<a href="https://dev.to/lhourquin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lhourquin" height="30" width="40" /></a>
-<a href="https://twitter.com/lhourquin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lhourquin" height="30" width="40" /></a>
-
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
